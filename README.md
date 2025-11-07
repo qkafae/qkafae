@@ -1,5 +1,8 @@
 ## wsg 👋
 
+### projects 📁
+- n/a
+
 ### languages 📝
 - kotlin 🏝️
 - java ☕️
